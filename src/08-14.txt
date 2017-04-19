@@ -1,2 +1,3 @@
 A word is just a sound.
+
 And this sound, if it is to be interpreted, needs an interpreter.
